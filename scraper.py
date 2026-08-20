@@ -14,32 +14,30 @@ def fetch_and_save_data():
         response.raise_for_status() 
         data = response.json()
         
-        # Extract the AsOf timestamp provided by Monash
         as_of_time = data.get('AsOf', 'N/A')
-        
-        # Script execution timestamp
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         rows_processed = 0
         
         with open(CSV_FILENAME, mode="a", newline="", encoding="utf-8") as file:
             writer = csv.writer(file)
             
-            # Updated to include the new AsOf column
+            # Added a 6th column for Vacancy_Enabled
             if not file_exists:
-                writer.writerow(["Timestamp", "AsOf", "Location", "Permits", "Spots_Available"])
+                writer.writerow(["Timestamp", "AsOf", "Location", "Permits", "Spots_Available", "Vacancy_Enabled"])
             
             for row in data.get('Rows', []):
                 location = row.get('TextDescription', 'Unknown Location')
-                if not row.get('VacancyEnabled', False):
-                    continue
-                    
+                
+                # We no longer skip rows! We just capture their boolean status.
+                vacancy_enabled = row.get('VacancyEnabled', False)
                 vacant = row.get('Vacant', 'N/A')
+                
                 permits_list = row.get('Permits', [])
                 permit_names = [p.get('Name', '') for p in permits_list]
                 permit_string = " / ".join(permit_names) if permit_names else "None"
                 
-                # Write both timestamps to the row
-                writer.writerow([timestamp, as_of_time, location, permit_string, vacant])
+                # Write all 6 columns to the row
+                writer.writerow([timestamp, as_of_time, location, permit_string, vacant, vacancy_enabled])
                 rows_processed += 1
                 
         print(f"[{timestamp}] Successfully logged {rows_processed} parking zones (As Of: {as_of_time}).")
