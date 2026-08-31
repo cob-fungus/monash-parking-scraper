@@ -10,5 +10,6 @@ I'm using this first GitHub project of mine to learn how to use GitHub. For this
 
 29/08/2026 Okay, I'll probably be hitting file size limits in five months; I'll get back to it in a few weeks, when I'll:
 - analyse all data series;
-- limit the carparks whose active data series are being collected to only N1 (all permits) and other blue- or red-permit carparks; and
-- store the data in a wide format, because the data is expected to be very dense, rather than sparse, due to few series' being toggled within any given year.
+- limit the carparks whose active data series are being collected to only N1 (all permits) and other blue- or red-permit carparks;
+- store the data in a wide format, because the data is expected to be very dense, rather than sparse, due to few series' being toggled within any given year; and
+- perhaps make a GitHub webpage displaying whether it is predicted that there would be parking spots one hour in the future based on historical trends (and to display interactively the data from ``monash_all_parking_availabilities.csv`` which may be split into monthly files).
