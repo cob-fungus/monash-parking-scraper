@@ -8,9 +8,14 @@ CSV_FILENAME = "monash_all_parking_availabilities.csv"
 
 def fetch_and_save_data():
     file_exists = os.path.exists(CSV_FILENAME)
+
+    # Disguise the script as a normal web browser to avoid the intermittent 403 errors, hehe
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    }
     
     try:
-        response = requests.get(API_URL, timeout=10)
+        response = requests.get(API_URL, headers=headers, timeout=10)
         response.raise_for_status() 
         data = response.json()
         
