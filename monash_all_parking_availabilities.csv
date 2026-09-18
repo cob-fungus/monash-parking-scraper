@@ -168843,3 +168843,37 @@ Timestamp,AsOf,Location,Permits,Spots_Available,Vacancy_Enabled
 2026-09-18 00:43:18,18/09/2026 10:42:17 AM,Southern,Yellow,0,False
 2026-09-18 00:43:18,18/09/2026 10:42:17 AM,Southern,Green,0,False
 2026-09-18 00:43:18,18/09/2026 10:42:17 AM,Southern,None,0,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,10 Research Way (N1) Gnd,Orange,19,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,10 Research Way (N1) Gnd,Red,0,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,10 Research Way (N1) Gnd,Yellow,12,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,10 Research Way (N1) Gnd,Green,6,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,10 Research Way (N1) Gnd,Visitor,159,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,2 Innovation Walk (N1) L1-6,Blue,1057,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,2 Innovation Walk (N1) L1,Red,2,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,3 Alliance Lane (W1),Blue,170,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,30 Ancora Imparo Way (S1),Yellow / Green / Orange,0,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,20 Ancora Imparo Way (S2) P1-P4,Red,14,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,20 Ancora Imparo Way (S2) P1,Green,1,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,52 Scenic Blvd (SE1),Red / Orange,0,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,54 Scenic Blvd (SE2),Blue,0,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,64 Scenic Blvd (SE3),Visitor,212,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,60 Scenic Blvd (SE4),Blue,449,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,62 Scenic Blvd (SE5),Blue,90,True
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,133 Wellington Rd (OC1),Visitor,0,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,"N1 - L2, 2 Innovation Walk",Blue,0,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,"N1 - L3, 2 Innovation Walk",Blue,60,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,"N1 - L4, 2 Innovation Walk",Blue,477,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,"N1 - L5, 2 Innovation Walk",Blue,477,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,"Sth East 4 L1 (SE4), 60 Scenic Blvd",Blue,93,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,"Sth East 4 L2 (SE4), 60 Scenic Blvd",Blue,171,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Northern,Blue,1057,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Northern,Red,2,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Northern,Yellow,12,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Northern,Green,6,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Northern,Blue,170,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Southern,Visitor,212,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Southern,Blue,539,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Southern,Red,14,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Southern,Yellow,0,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Southern,Green,0,False
+2026-09-18 00:49:19,18/09/2026 10:48:16 AM,Southern,None,0,False
