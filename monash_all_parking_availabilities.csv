@@ -203319,3 +203319,37 @@ Timestamp,AsOf,Location,Permits,Spots_Available,Vacancy_Enabled
 2026-09-22 06:26:01,22/09/2026 16:24:19 PM,Southern,Yellow,0,False
 2026-09-22 06:26:01,22/09/2026 16:24:19 PM,Southern,Green,0,False
 2026-09-22 06:26:01,22/09/2026 16:24:19 PM,Southern,None,0,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,10 Research Way (N1) Gnd,Orange,20,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,10 Research Way (N1) Gnd,Red,115,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,10 Research Way (N1) Gnd,Yellow,14,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,10 Research Way (N1) Gnd,Green,6,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,10 Research Way (N1) Gnd,Visitor,179,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,2 Innovation Walk (N1) L1-6,Blue,2110,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,2 Innovation Walk (N1) L1,Red,219,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,3 Alliance Lane (W1),Blue,201,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,30 Ancora Imparo Way (S1),Yellow / Green / Orange,0,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,20 Ancora Imparo Way (S2) P1-P4,Red,482,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,20 Ancora Imparo Way (S2) P1,Green,75,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,52 Scenic Blvd (SE1),Red / Orange,120,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,54 Scenic Blvd (SE2),Blue,9,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,64 Scenic Blvd (SE3),Visitor,348,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,60 Scenic Blvd (SE4),Blue,671,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,62 Scenic Blvd (SE5),Blue,195,True
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,133 Wellington Rd (OC1),Visitor,0,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,"N1 - L2, 2 Innovation Walk",Blue,230,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,"N1 - L3, 2 Innovation Walk",Blue,491,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,"N1 - L4, 2 Innovation Walk",Blue,635,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,"N1 - L5, 2 Innovation Walk",Blue,635,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,"Sth East 4 L1 (SE4), 60 Scenic Blvd",Blue,148,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,"Sth East 4 L2 (SE4), 60 Scenic Blvd",Blue,297,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Northern,Blue,2110,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Northern,Red,334,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Northern,Yellow,14,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Northern,Green,6,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Northern,Blue,201,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Southern,Visitor,348,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Southern,Blue,875,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Southern,Red,482,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Southern,Yellow,0,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Southern,Green,0,False
+2026-09-22 06:31:16,22/09/2026 16:30:22 PM,Southern,None,0,False
